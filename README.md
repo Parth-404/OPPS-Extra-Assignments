@@ -30,10 +30,7 @@ Some of the key topics covered are:
 
 > 📝 **Note:** All problem descriptions are included within the comments of each `.cpp` file, making it easier to follow along.
 
-## 💡 How to Use This Repository
 
-### Clone the Repository
-You can clone this repository to your local machine using the following command:
 
 
 
